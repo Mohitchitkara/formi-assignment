@@ -1,0 +1,14 @@
+{
+  "Delhi": {
+    "opening_hours": "12:00 PM - 11:00 PM",
+    "menu": ["Buffet", "A-la-carte"],
+    "address": "Connaught Place, Delhi",
+    "contact_number": "011-23456789"
+  },
+  "Bengaluru": {
+    "opening_hours": "11:30 AM - 10:30 PM",
+    "menu": ["Buffet", "Grill"],
+    "address": "Koramangala, Bengaluru",
+    "contact_number": "080-98765432"
+  }
+}
